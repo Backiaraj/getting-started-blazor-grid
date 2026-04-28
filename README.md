@@ -1,6 +1,6 @@
 # Getting Started with Blazor Grid
 
-This repository contains the blazor project that illustrates using [Syncfusion Grid](https://www.syncfusion.com/blazor-components/blazor-datagrid) in it. 
+This repository contains the blazor project that illustrates using [Syncfusion Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) in it. 
 
 ## Prerequisites
 
