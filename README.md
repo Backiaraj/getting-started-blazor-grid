@@ -2,25 +2,39 @@
 
 This repository contains the blazor project that illustrates using [Syncfusion Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) in it. 
 
+## Overview
+
+This sample shows the essential steps to integrate the Syncfusion DataGrid component into a Blazor App, including paging, filtering, sorting, and grouping.
+
+**Documentation**: https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-web-app
+
+**Online example**: https://blazor.syncfusion.com/demos/datagrid/overview?theme=bootstrap5
+
+## Features
+
+* Fast rendering with virtualization and row/column virtualization
+* Sorting, filtering, grouping, and searching capabilities
+* Inline, batch, and dialog editing modes
+* Template columns, column resizing, reordering, and freezing
+* Excel and PDF export (requires additional Syncfusion export packages)
+
 ## Prerequisites
 
-Ensure the following software and packages are installed before proceeding:
-
-| Software/Package | Version | Purpose |
-|-----------------|---------|---------|
-| Visual Studio 2022 | 18.2.1 or later | Development IDE with Blazor workload |
-| .NET SDK | net8.0 or compatible | Runtime and build tools |
-| Syncfusion.Blazor.Grid | -v {{site.blazorversion}} | DataGrid and UI components |
-| Syncfusion.Blazor.Themes | -v {{site.blazorversion}} | Styling for DataGrid components |
+* Visual Studio 2022 or later
+* Visual Studio Code
+* .NET SDK 8.0 or later
 
 ## How to run the project
 
-* Clone or download this repository to a location in your system.
-* Open the solution file using the Visual Studio or Visual Studio code.
-* Restore the NuGet packages by rebuilding the solution.
-* Build the project to ensure there are no compilation errors.
-* Run the project.
+1. Clone or download this repository to a location in your system.
+2. Open the solution file using the Visual Studio or Visual Studio code.
+3. Restore the NuGet packages by rebuilding the solution or run `dotnet restore`.
+4. Build the project to ensure there are no compilation errors.
+5. Run the project.
 
-## Further help
+Optional CLI Commands:
 
-To get more help, check the [Blazor Getting Started documentation](https://blazor.syncfusion.com/documentation/datagrid/getting-started-with-web-app).
+```powershell
+dotnet restore
+dotnet build
+```
