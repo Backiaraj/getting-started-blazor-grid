@@ -10,8 +10,8 @@ Ensure the following software and packages are installed before proceeding:
 |-----------------|---------|---------|
 | Visual Studio 2022 | 18.2.1 or later | Development IDE with Blazor workload |
 | .NET SDK | net8.0 or compatible | Runtime and build tools |
-| Syncfusion.Blazor.Grid | -v {{site.blazorversion}} | Gantt Chart and UI components |
-| Syncfusion.Blazor.Themes | -v {{site.blazorversion}} | Styling for Gantt Chart components |
+| Syncfusion.Blazor.Grid | -v {{site.blazorversion}} | DataGrid and UI components |
+| Syncfusion.Blazor.Themes | -v {{site.blazorversion}} | Styling for DataGrid components |
 
 ## How to run the project
 
