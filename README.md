@@ -28,7 +28,7 @@ This sample application provides a practical introduction to building rich, inte
 
 ## Getting Started
 
-### Clone the Repository
+### Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/getting-started-blazor-grid.git
