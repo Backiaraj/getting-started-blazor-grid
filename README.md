@@ -1,6 +1,6 @@
 # Getting Started with Blazor DataGrid
 
-A modern, full-stack .NET 8 Blazor application demonstrating essential datagrid features using the [Syncfusion Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component. This project showcases best practices for building interactive, data-driven web applications with Blazor.
+A modern, full-stack .NET 8 Blazor application demonstrating essential DataGrid features using the [Syncfusion Blazor DataGrid](https://www.syncfusion.com/blazor-components/blazor-datagrid) component. This project showcases best practices for building interactive, data-driven web applications with Blazor.
 
 ## Overview
 
@@ -31,7 +31,7 @@ This sample application provides a practical introduction to building rich, inte
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/getting-started-blazor-grid.git
+git clone https://github.com/SyncfusionExamples/getting-started-blazor-grid.git
 cd getting-started-blazor-grid
 ```
 
